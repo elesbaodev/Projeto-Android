@@ -26,7 +26,7 @@ body {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor02), var(--cor04));
-    height: 150px;
+    height: 171px;
 }
 header > h1  {
     text-align: center;
@@ -90,7 +90,7 @@ main > article > h2 {
     color: var(--cor04);
     background-color: var(--cor01);
     margin: 9px;
-    height: 30px;
+ 
     font-size: 25px;
 }    
 
@@ -150,7 +150,6 @@ aside > div {
      border:  10px solid;
      border-radius: 1px 1px 7px 13px;
      border-color: rgba(96, 253, 180, 0.336);  
-     height: 469px;
 
 }
 aside p {
@@ -203,7 +202,6 @@ footer > #autor {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 600;
-    width: 1456px;
 }
 footer a {
     color: white;
