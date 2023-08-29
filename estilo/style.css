@@ -26,7 +26,6 @@ body {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor02), var(--cor04));
-    height: 171px;
 }
 header > h1  {
     text-align: center;
@@ -61,7 +60,6 @@ main {
     background-color: white;
     margin: auto;
     max-width: 1455px;
-    min-width: none;
     padding-left: 10px;
 }
 
@@ -90,7 +88,6 @@ main > article > h2 {
     color: var(--cor04);
     background-color: var(--cor01);
     margin: 9px;
- 
     font-size: 25px;
 }    
 
@@ -131,7 +128,6 @@ div.video > iframe {
 aside {
   padding-top: 10px;
   padding-right: 10px;
-  height: 542px;
   margin-bottom: 9px;
 }
 aside >  h2 {
