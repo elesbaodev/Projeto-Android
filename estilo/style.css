@@ -169,7 +169,7 @@ ul > li {
     
 }
 li {
-    list-style: '   \00a0\2714';
+    list-style: '\00a0\2714';
     padding-left: 5px;
   
 }
