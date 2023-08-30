@@ -22,8 +22,8 @@
 
 body {
     background-color: var(--cor01);
-    margin-top: 0px;
     margin: 0px;
+    padding: 0px;
 }
 
 header {
@@ -105,6 +105,8 @@ main > article > h2 {
     display: block;
     margin: auto;
     margin-bottom: 10px;
+
+
 }
 div.video {
     background-color: var(--cor05);
