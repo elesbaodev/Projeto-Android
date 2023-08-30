@@ -67,6 +67,7 @@ main > article > h1 {
     padding: 10px;
     color: var(--cor04);
     font-size: 30px;
+
 }
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -137,7 +138,6 @@ aside >  h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 10px solid;
     border-radius: 21px 21px 1px 1px;
-
     border-color: var(--cor03);
 
 
@@ -154,7 +154,7 @@ aside p {
     font-weight: 500;
     text-indent: 3em;
     line-height: 1.6em;
-    margin-left: 5px ;
+    margin-left: 5px;
 }
 ul {
     padding-top: 20px;
