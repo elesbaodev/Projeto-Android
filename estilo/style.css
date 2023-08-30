@@ -21,7 +21,6 @@
 }
 
 body {
-    background-color: var(--cor01);
     margin: 0px;
     padding: 0px;
 }
@@ -61,6 +60,7 @@ header > nav > p > a:hover {
 main {
     background-color: white;
     margin: auto;
+    max-width: ;
 }
 
 main > article > h1 {
