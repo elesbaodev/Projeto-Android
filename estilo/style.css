@@ -39,13 +39,13 @@ header > h1  {
 }
 
 header > p {
+    text-align: justify;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-weight: bold;
     padding-top: 5px;
     padding-bottom: 15px;
-    margin-left: 19px;
 }
 header > nav > p > a {
     padding-left: 10px;
