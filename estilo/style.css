@@ -196,6 +196,10 @@ abbr  {
     text-shadow: -1px 2px 22px rgba(0, 0, 0, 0.445);
 
 }
+footer {
+    margin: 0px;
+    padding: 0px;
+}
 footer > #autor {
     background-color: var(--cor05);
     text-align: center;
