@@ -61,7 +61,6 @@ header > nav > p > a:hover {
 main {
     background-color: white;
     margin: auto;
-    padding-left: 10px;
 }
 
 main > article > h1 {
@@ -132,6 +131,7 @@ aside {
   padding-top: 10px;
   padding-right: 10px;
   margin-bottom: 9px;
+  padding-left: 10px;
 }
 aside >  h2 {
     color: white;
@@ -188,6 +188,7 @@ abbr  {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
     margin-bottom: 5px;
+    padding-left: 5px;
 }
 .pultimo > strong {
     color: var(--cor02);
