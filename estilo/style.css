@@ -39,7 +39,6 @@ header > h1  {
 }
 
 header > p {
-    text-align: justify;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
