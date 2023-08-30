@@ -45,6 +45,7 @@ header > p {
     font-weight: bold;
     padding-top: 5px;
     padding-bottom: 15px;
+    padding-left: 10px;
 }
 header > nav > p > a {
     padding-left: 10px;
